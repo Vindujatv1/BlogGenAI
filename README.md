@@ -71,20 +71,8 @@ scikit-learn for cosine similarity
 
 
 
-Copy
-Edit
-# The Future of Renewable Energy
-_Meta Description: Discover the transformative trends shaping the future of renewable energy worldwide._
 
-## Introduction
-...
 
-## SEO Keywords
-- renewable energy
-- solar power
-- green technology
-...
-</details>
 
 📬 Contact
 Maintainer: Vinduja T
