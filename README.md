@@ -70,10 +70,7 @@ Sentence Transformers for semantic similarity
 scikit-learn for cosine similarity
 
 
-</details>
-📄 Example Output
-<details> <summary>Click to view sample blog output</summary>
-markdown
+
 Copy
 Edit
 # The Future of Renewable Energy
